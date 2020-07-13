@@ -1,0 +1,74 @@
+header{
+    background-color: #3443c0;
+    color: white;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+}
+
+header img{
+    width: 20px;
+}
+
+header h6{
+    padding: 10px 10px;
+    margin-top: 7px;
+}
+
+#dropdownMenuButton{
+    color: white;
+}
+
+header img{
+    margin-left: 10px;
+}
+
+.dropdown-item:hover{
+    background-color: lightgray;
+}
+
+.nav-item{
+    font-size: 18px;
+    padding: 0px 10px;
+}
+
+.nav-item:hover{
+    background-color: #6666ff;
+}
+
+.header-part2{
+    background-color: #4a5bdd;
+    margin-top: 0px;
+}
+
+.free-home-demo{
+    position: fixed;
+    top: 120px;
+    right: 0px;
+}
+
+.image-slider{
+    margin-top: 110px;
+}
+
+section{
+    margin-bottom: 100px;
+}
+
+.text-section{
+    text-align: center;
+}
+
+.text-section p{
+    font-size: 20px;
+    text-align: justify;
+}
+
+.text-section h2{
+    color: #00a3e0;
+}
+
+.text-section h3{
+    color: gray;
+}
